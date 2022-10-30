@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <script src="../../dist/index.js"></script>
+    <title>動作サンプル</title>
+  </head>
+  <body>
+    <script>
+      function beDivByTen(a) {
+          return (a === 0) ? left("division by zero") : right(10 / a);
+      }
+
+      let a = beDivByTen(2);
+      let e = beDivByTen(0);
+
+      document.body.innerHTML = 
+        "a:" + a.getRight() + "<br />" + "e:" + e.getLeft();
+    </script>
+  </body>
+</html>
