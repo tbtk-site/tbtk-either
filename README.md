@@ -20,6 +20,10 @@ Using jsDelivr:
 <script src="https://cdn.jsdelivr.net/npm/@tbtk-site/tbtk-either/dist/index.min.js"></script>
 ```
 
+RunKit Demo
+
+[https://runkit.com/tbtk-site/635e30271430e500087143d2](https://runkit.com/tbtk-site/635e30271430e500087143d2)
+
 ## How to use
 
 Please refer to the test case for detailed usage.

@@ -1,6 +1,6 @@
 {
   "name": "@tbtk-site/tbtk-either",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript implementation of something like Either",
   "main": "dist/cjs/tbtk-either.js",
   "module": "dist/esm/tbtk-either.mjs",
